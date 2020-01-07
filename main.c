@@ -24,3 +24,13 @@ int main(){
         break;
     }
 }
+
+int div(int a, int b){
+    int c = a/b;
+    return c;
+}
+
+int multi(int a, int b){
+    int c = a*b;
+    return c;
+}
