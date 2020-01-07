@@ -19,6 +19,9 @@ int main(){
         case '-':
         c = sub(a,b);
         break;
+        case'/':
+        c = div(a,b);
+        break;
         case '*':
         c = multi(a,b);
         break;
