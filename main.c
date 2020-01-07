@@ -26,6 +26,8 @@ int main(){
         c = multi(a,b);
         break;
     }
+
+    printf("result: %d", &c);
 }
 
 int add(int x, int y){
