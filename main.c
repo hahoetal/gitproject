@@ -32,3 +32,13 @@ int add(int x, int y){
 int sub(int x, int y){
     return x - y;
 }
+
+int div(int a, int b){
+    int c = a/b;
+    return c;
+}
+
+int multi(int a, int b){
+    int c = a*b;
+    return c;
+}
